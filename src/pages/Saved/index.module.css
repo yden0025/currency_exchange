@@ -1,0 +1,29 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.amount {
+  width: 50%;
+}
+
+.from_control {
+  width: 25%;
+}
+
+.to_control {
+  width: 25%;
+}
+
+.convert_btn {
+  margin-right: 15px !important;
+  width: 10%;
+  float: right;
+}
+
+.card {
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
